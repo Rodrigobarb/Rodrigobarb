@@ -10,7 +10,7 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
 
 ---
 ## Estudando 💻 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 ---
@@ -24,8 +24,8 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDvVpNMvMLXBNJxBpmKXPmPNBLVCxjBDrmhwfVvWffhrJVxnNWCLxSJKLLzPKDsLRrbV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
-  ## Obrigado pela visita número:
+  ---
+ <h3> Obrigado pela visita número:</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rodrigobarb/count.svg?"  />
 </div>
