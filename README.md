@@ -1,7 +1,6 @@
 ### Hello, i am Rodrigo 😎
 
 ## Sobre mim 
-Eu sou um estudante de Ciência da Computação, residente em Passo Fundo, no Rio Grande do Sul.<br>
 Minha principal área de atuação é o desenvolvimento de aplicativos para dispositivos móveis.<br>
 
 ---
