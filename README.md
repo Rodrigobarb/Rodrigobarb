@@ -25,7 +25,7 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
    <a href="https://www.youtube.com/@rodrigobarbosaflutter">
-  <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/youtube.png" />
+  <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
   
  <h3> Obrigado pela visita número:</h3>
