@@ -27,6 +27,9 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
 <a href="https://www.youtube.com/@rodrigobarbosaflutter" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
+<a href=" https://wa.me/qr/X2ETZ7DWRMQOJ1" target="_blank">
+  <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://pt.pngtree.com/free-png-vectors/whatsapp-icon" />
+</a>
   
  <h3> Obrigado pela visita número:</h3>
 <div align="center">
