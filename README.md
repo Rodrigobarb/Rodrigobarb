@@ -18,13 +18,13 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
  Se você está interessado em trabalhar ou discutir ideias, sinta-se à vontade para entrar em contato comigo! 💌
 </p>
 <br>
- <a href="https://br.linkedin.com/in/rodrigopereirabarbosa2002/">
+<a href="https://br.linkedin.com/in/rodrigopereirabarbosa2002/" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Linkedin" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/linkedin.png" />
 </a>
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDvVpNMvMLXBNJxBpmKXPmPNBLVCxjBDrmhwfVvWffhrJVxnNWCLxSJKLLzPKDsLRrbV" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-   <a href="https://www.youtube.com/@rodrigobarbosaflutter">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rod.barbosa29@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+<a href="https://www.youtube.com/@rodrigobarbosaflutter" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
   
