@@ -27,10 +27,10 @@ Minha principal área de atuação é o desenvolvimento de aplicativos para disp
 <a href="https://www.youtube.com/@rodrigobarbosaflutter" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
-<a href=" https://wa.me/qr/X2ETZ7DWRMQOJ1" target="_blank">
-  <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" />
+<a href="https://wa.me/qr/X2ETZ7DWRMQOJ1" target="_blank">
+  <img align="left" alt="Rodrigo Barbosa | Whatsapp" width="40px" src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" />
 </a>
-  
+  <br>
  <h3> Obrigado pela visita número:</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rodrigobarb/count.svg?"  />
