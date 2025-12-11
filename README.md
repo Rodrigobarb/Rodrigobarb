@@ -1,7 +1,7 @@
 ### Hello, i am Rodrigo 😎
 
 ## Sobre mim 
-Dev Flutter <br>
+Desenvolvedor de Software com sólida experiência em Dart/Flutter, responsável pelo desenvolvimento, manutenção e evolução de aplicativos de alta qualidade. <br>
 
 ---
 ## Trabalho atualmente 📱 
