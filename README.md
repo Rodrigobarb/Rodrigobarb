@@ -1,7 +1,7 @@
 ### Hello, i am Rodrigo 😎
 
 ## Sobre mim 
-Minha principal área de atuação é o desenvolvimento de aplicativos para dispositivos móveis.<br>
+Dev Flutter <br>
 
 ---
 ## Trabalho atualmente 📱 
