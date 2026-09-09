@@ -12,7 +12,6 @@ Desenvolvedor de Software com sólida experiência em Dart/Flutter, responsável
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 ---
 <p align="left">
  Se você está interessado em trabalhar ou discutir ideias, sinta-se à vontade para entrar em contato comigo! 💌f
@@ -21,9 +20,7 @@ Desenvolvedor de Software com sólida experiência em Dart/Flutter, responsável
 <a href="https://br.linkedin.com/in/rodrigopereirabarbosa2002/" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Linkedin" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/linkedin.png" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rod.barbosa29@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
+
 <a href="https://www.youtube.com/@rodrigobarbosaflutter" target="_blank">
   <img align="left" alt="Rodrigo Barbosa | Youtube" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
